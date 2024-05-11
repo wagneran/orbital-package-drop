@@ -24,3 +24,7 @@ brew install wget
 
 # https://formulae.brew.sh/cask/gpg-suite
 brew install --cask gpg-suite
+
+brew install --cask docker
+
+brew install kind
